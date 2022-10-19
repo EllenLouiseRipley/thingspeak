@@ -16,8 +16,8 @@ GIT
       sass-rails
 
 GIT
-  remote: git://github.com/moomerman/twitter_oauth.git
-  revision: 712430503037b144d8dffb2f4964b485d51485a8
+  remote: git://github.com/sferik/twitter.git
+  revision: 97f075aadd405427ba3cb5801feb67bdd1af77ef
   specs:
     twitter_oauth (0.4.94)
       json (>= 1.8.0)
