@@ -1,7 +1,7 @@
 source 'http://rubygems.org'
 
 gem 'rails', '4.0.5'
-gem 'jquery-rails', '3.0.4'
+gem 'jquery-rails', '~>4.2'
 gem 'rails_autolink'
 gem 'mysql2'
 gem 'devise'
